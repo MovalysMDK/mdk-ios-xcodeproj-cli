@@ -1,10 +1,9 @@
 # mdk-ios-xcodeproj-cli
-**Movalys MDK: IOS Tool's description**
 
 ## What?
 
-mdk-ios-xcodeproj-cli is part of the Movalys MDK for the IOS platform.
-It provides a command line interface to handle xCode projects.
+mdk-ios-xcodeproj-cli is a CLI for the xcodeproj library.
+This tool allows you, in command line, to add and remove files to a xcode project.
 
 ## Documentation
 
